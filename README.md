@@ -1,27 +1,33 @@
-# 👋 Hi, I'm Thales!
+# 👋 Fala, eu sou o Thales!
 
-💻 I'm learning programming  
-🚀 Future developer  
-🎯 Focus: JavaScript, Web, AI  
+💻 Aprendendo programação  
+🔥 Focado em criar apps, sites e IA  
 
 ---
 
 ## 🧠 Skills
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<div style="display: flex; gap: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="50px"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" width="50px"/>
+  
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width="50px"/>
+  
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-css-icon-svg-download-png-722685.png?f=webp" width="50px"/>
+</div>
 
 ---
 
-## 🛠️ Tools
+## 🚀 Sobre mim
 
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+- 🎯 Quero criar minha própria IA  
+- 🧠 Aprendendo JavaScript, HTML, CSS e Python  
+- 🔥 Criando projetos como A.U.S.B.I.  
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
-- Email: seuemail@gmail.com
+- 📧 Email: thalesfut25@gmail.com  
+- 📱 WhatsApp: +55 79 99465-5978  
